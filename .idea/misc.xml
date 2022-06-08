@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programs/Android/AndroidStudio_Projects/Week6CoroutinesAppWb/app/src/main/res/layout/activity_main.xml" value="0.5359375" />
+        <entry key="..\:/Programs/Android/AndroidStudio_Projects/Week6CoroutinesAppWb/app/src/main/res/layout/fragment_buttons.xml" value="0.5489583333333333" />
+        <entry key="..\:/Programs/Android/AndroidStudio_Projects/Week6CoroutinesAppWb/app/src/main/res/layout/fragment_pi_numbers.xml" value="0.5489583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
